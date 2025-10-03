@@ -127,5 +127,4 @@ Se você quiser, posso fazer uma versão ainda mais visual, com desenhos maiores
 
 
 
-am a visualizar a estrutura de classes e objetos de cada exercício.  
-Este documento pode ser usado como guia de referência rápida para todo o conteúdo do repositório.
+
